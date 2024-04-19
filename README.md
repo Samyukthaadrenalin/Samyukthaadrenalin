@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samyukthaadrenalin
+- 👋 Hi, I’m Samyukthasree
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me samyukthaadrenalin@gmail.com
